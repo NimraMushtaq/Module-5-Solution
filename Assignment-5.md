@@ -1,4 +1,5 @@
 # Module 5 Coding Assignment
+Module 5-Assignment Solution Link : https://nimramushtaq.github.io/Module5-Solution/
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
